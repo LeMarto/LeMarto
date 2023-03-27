@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LeMarto
 - 👀 I’m interested in Programing, Databases and everything related to computers. I like both high level and low level coding. ASM rules!
-- 🌱 I’m currently learning Azure, c#, javascript.
+- 🌱 I’m currently learning GCP, Java, javascript.
